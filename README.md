@@ -1,6 +1,8 @@
-# ReduxSimpleStarter
+Learning React/Redux 
+====================
+This is a collection React and Redux applications I've built/am building while completeling [Stephen Grider's udemy course](https://www.udemy.com/react-redux/). The master branch is a starter pack to build off of. So far the projects built are:
 
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
+* Youtube search application: functionality includes searching, listing, and playing of youtube videos using the youtube api. 
 
 ### Getting Started
 
