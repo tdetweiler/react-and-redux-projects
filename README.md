@@ -2,7 +2,8 @@ Learning React/Redux
 ====================
 This is a collection React and Redux applications I've built/am building while completeling [Stephen Grider's udemy course](https://www.udemy.com/react-redux/). The master branch is a starter pack to build off of. So far the projects built are:
 
-* Youtube search application: functionality includes searching, listing, and playing of youtube videos using the youtube api. 
+* Youtube search application: functionality includes searching, listing, and playing of youtube videos using the youtube api.
+* Redux book list and selection: Very basic application with the goal of covering the basics of Redux with reducers and using those with state. 
 
 ### Getting Started
 
