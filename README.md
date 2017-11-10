@@ -4,7 +4,7 @@ This is a collection React and Redux applications I've built/am building while c
 
 * Youtube search application: functionality includes searching, listing, and playing of youtube videos using the youtube api.
 * Redux book list and selection: Very basic application with the goal of covering the basics of Redux with reducers and using those with state. 
-* Weather Forecast Application: React/Redux project that uses middleware Ajax to talk with Openweathermap's API and display the searched cities weather. Also creates google map instances to display the city.
+* Weather Forecast Application: React/Redux project that uses middleware Ajax to talk with Openweathermap's API and display the searched city's weather. Also creates google map instances to display the city.
 
 ### Getting Started
 
